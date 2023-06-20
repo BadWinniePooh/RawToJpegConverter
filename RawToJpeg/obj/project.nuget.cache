@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WEtgaoI/OHOr/T+9g4f48pDXw1iOtH61fcyanNknBfqTvosl9AyUc8Mdh0m3p7eqvla2BDSN41zq0X0cGybHMA==",
+  "success": true,
+  "projectFilePath": "D:\\Program Files (x86)\\VisualStudio\\repos\\PrivateProjects\\RawToJpeg\\RawToJpeg\\RawToJpeg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gglm1\\.nuget\\packages\\goblinfactory.konsole\\6.2.2\\goblinfactory.konsole.6.2.2.nupkg.sha512",
+    "C:\\Users\\gglm1\\.nuget\\packages\\magick.net-q16-anycpu\\12.1.0\\magick.net-q16-anycpu.12.1.0.nupkg.sha512",
+    "C:\\Users\\gglm1\\.nuget\\packages\\magick.net.core\\12.1.0\\magick.net.core.12.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

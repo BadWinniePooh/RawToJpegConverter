@@ -1,0 +1,112 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RawToJpeg/1.0.0": {
+        "dependencies": {
+          "Goblinfactory.Konsole": "6.2.2",
+          "Magick.NET-Q16-AnyCPU": "12.1.0"
+        },
+        "runtime": {
+          "RawToJpeg.dll": {}
+        }
+      },
+      "Goblinfactory.Konsole/6.2.2": {
+        "runtime": {
+          "lib/netstandard2.0/Goblinfactory.Konsole.dll": {
+            "assemblyVersion": "6.2.2.0",
+            "fileVersion": "6.2.2.0"
+          }
+        }
+      },
+      "Magick.NET-Q16-AnyCPU/12.1.0": {
+        "dependencies": {
+          "Magick.NET.Core": "12.1.0"
+        },
+        "runtime": {
+          "lib/netstandard21/Magick.NET-Q16-AnyCPU.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/Magick.Native-Q16-arm64.dll.so": {
+            "rid": "linux-arm64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-musl-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-musl-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux-x64/native/Magick.Native-Q16-x64.dll.so": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/Magick.Native-Q16-x64.dll.dylib": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-arm64/native/Magick.Native-Q16-arm64.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "7.1.0.46"
+          },
+          "runtimes/win-x64/native/Magick.Native-Q16-x64.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "7.1.0.46"
+          },
+          "runtimes/win-x86/native/Magick.Native-Q16-x86.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "7.1.0.46"
+          }
+        }
+      },
+      "Magick.NET.Core/12.1.0": {
+        "runtime": {
+          "lib/netstandard21/Magick.NET.Core.dll": {
+            "assemblyVersion": "12.1.0.0",
+            "fileVersion": "12.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RawToJpeg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Goblinfactory.Konsole/6.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OIcxcMX/TkVVX4fzaRdDr7lmJB15REY2H631Er8I0e8r4Pf4fsAYx+kvjbbHeCNLgb8bqCua0w/0esOZLZDHaA==",
+      "path": "goblinfactory.konsole/6.2.2",
+      "hashPath": "goblinfactory.konsole.6.2.2.nupkg.sha512"
+    },
+    "Magick.NET-Q16-AnyCPU/12.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-maXWZxLlP4SmZWdTKB7dealzVkyjfxrRO4+lTdfU1oZ9dagvTW1sq24gFulcufy/XdiY0KqsuyF5u4ntfMKnIQ==",
+      "path": "magick.net-q16-anycpu/12.1.0",
+      "hashPath": "magick.net-q16-anycpu.12.1.0.nupkg.sha512"
+    },
+    "Magick.NET.Core/12.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-F1xGmBx+cy9mnEnLlznfmItLRcagiZ3xKOYPbOexDPi8w9SuCfmyOXXz6haGQBDo5DQ7O/Q4knjaV5+gQW9ISA==",
+      "path": "magick.net.core/12.1.0",
+      "hashPath": "magick.net.core.12.1.0.nupkg.sha512"
+    }
+  }
+}
